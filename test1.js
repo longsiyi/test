@@ -1,1 +1,1 @@
-// JavaScript Document
+document.querySelector("div").innerHTML = "test";
